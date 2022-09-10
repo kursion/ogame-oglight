@@ -1,4 +1,9 @@
-# ogame-oglight
+# OGLight
+
+![image](https://user-images.githubusercontent.com/1087731/189495657-572fa9ef-4aac-4fed-bdbc-596ce117f281.png)
+
+Author: Oz
+Fork: Kursion
 
 # Guide d'utilisation d'OGLight
 ## Rapatriement des ressources
