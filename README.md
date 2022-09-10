@@ -26,6 +26,7 @@ Une fois qu'une boucle complète entre toutes les planètes a été effectuée, 
 
 # Verrouillage de construction
 Vous avez la possibilité de "verrouiller" toutes les constructions que vous voulez via le bouton suivant :
+
 ![image](https://user-images.githubusercontent.com/1087731/189495528-6844d046-bc85-4758-9983-092e0ee4a82c.png)
 
 
