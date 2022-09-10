@@ -1,9 +1,12 @@
 # OGLight
 
+OGLight est un script facile à prendre en main, le but est d'ajouter énormément de fonctionnalités au jeu sans avoir à se prendre la tête à configurer quoi que ce soit pendant des heures.
+
+
 ![image](https://user-images.githubusercontent.com/1087731/189495657-572fa9ef-4aac-4fed-bdbc-596ce117f281.png)
 
-Author: Oz
-Fork: Kursion
+- Author: Oz
+- Fork: Kursion
 
 # Guide d'utilisation d'OGLight
 ## Rapatriement des ressources
