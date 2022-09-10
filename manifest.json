@@ -1,0 +1,16 @@
+{
+  "name": "OgLight Community",
+  "description": "Ogame extension adding some features (fork of the Greasemonkey script by Magikarp)",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": ["https://*.ogame.gameforge.com/game/*"],
+      "js": ["index.js"]
+    }
+  ],
+  "web_accessible_resources": [{
+    "matches": ["https://*.ogame.gameforge.com/*"],
+    "resources": ["oglight.js", "src/*.js", "*.css"]
+  }]
+}
