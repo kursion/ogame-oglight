@@ -1,3 +1,5 @@
+import Util from '../util.js';
+
 class GalaxyManager {
   constructor(ogl) {
     this.ogl = ogl;
