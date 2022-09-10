@@ -5,7 +5,7 @@ OGLight est un script facile à prendre en main, le but est d'ajouter énorméme
 
 ![image](https://user-images.githubusercontent.com/1087731/189495657-572fa9ef-4aac-4fed-bdbc-596ce117f281.png)
 
-- Author: Oz
+- Author: Oz ([Soutenez](https://ko-fi.com/O4O22XV69))
 - Fork: Kursion
 
 # Guide d'utilisation d'OGLight
